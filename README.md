@@ -31,8 +31,10 @@
  - Integrando nossa API com banco de dados
 
 ## Módulo 5 - Git + GitHub
- - O que é o Git? 
+ - O que é o Git?!
  - Instalação do Git
+ - O que é o GitHub?!
+ - Criação de um repositório especial no GitHub
  - Configuração e utilização do GitHub para versionamento do nosso código
 
 # Links de onde encontrar mais conteúdo sobre o projeto
