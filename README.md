@@ -58,6 +58,11 @@
 
 <br />
 
+## 💈 [Módulo Extra](https://github.com/paneladev/agenda-service) - Construção de um microserviço do zero ao deploy na nuvem
+### ▶️ [Playlist Youtube](https://www.youtube.com/playlist?list=PLakffK2T0WaMg6LoPB95LFONgmDl_XPHH)
+
+<br />
+
 # Links de onde encontrar mais conteúdo sobre o projeto
 - http://bit.ly/pdev-youtube (veja as playlists)
 - http://bit.ly/pdev-github
