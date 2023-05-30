@@ -1,10 +1,10 @@
-# Sejam todos bem vindos 👋
+# Sejam bem vindos 👋
 
-### Olá, eu sou o Renan Lessa, responsável pelo conteúdo deste repositório. Abaixo vocês encontram alguns módulos, que serve como guia para quem está começando no desenvolvimento Java, cada módulo tem o link para a playlist de vídeos no youtube.
-### No youtube, ainda existem outros contéudos além destes descritos abaixo.
+### Olá, eu sou o [Renan Lessa](https://github.com/renanlessa), responsável pelo conteúdo deste repositório. Abaixo vocês encontram algumas informações, como um guia para quem está começando no desenvolvimento Java, cada módulo tem o link para a playlist de vídeos no youtube.
+### No youtube, ainda existem outros contéudos além destes descritos abaixo, inclusive conteudos mais avançados, entra lá no [youtube](http://youtube.com/@paneladev) e já deixa a inscrição para acompanhar toda vez que sai vídeo novo!
 
 # Java - Do zero aos microsserviços
-- Este projeto tem como principal objetivo ensinar a linguagem de programação Java
+- Este projeto tem como principal objetivo compartilhar conhecimento sobre a linguagem de programação Java
 
 # Público alvo
 - Qualquer pessoa que tenha o desejo de aprender a linguagem de programação Java
@@ -65,6 +65,12 @@
 ### ▶️ [Playlist Youtube](https://www.youtube.com/playlist?list=PLakffK2T0WaMg6LoPB95LFONgmDl_XPHH)
 
 <br />
+
+## 💈 [Outros vídeos](https://www.youtube.com/@paneladev/playlists) - Link para a playlist do youtube onde existem outros tantos conteúdos, como:
+### ▶️ [Spring Data](https://www.youtube.com/watch?v=Kz2FFvfkfCc&list=PLakffK2T0WaPZYf6E2JRRhxnPOeJBAIQT)
+### ▶️ [Mensageria](https://www.youtube.com/watch?v=Akrgk1u3HbA&list=PLakffK2T0WaNxLELJ1mBrlhA7N19Nj3_F)
+### ▶️ [Envio de Email](https://www.youtube.com/watch?v=vbKzXIiwe1k&list=PLakffK2T0WaNoTXFHRwX0rbbEM70ZJ6Od)
+### ▶️ [MongoDB](https://www.youtube.com/watch?v=mGIAj_NAeQs&list=PLakffK2T0WaNUH-vNS4IcwjVoopnYK7yd)
 
 # Onde encontrar mais conteúdo sobre o projeto
 
